@@ -15,3 +15,6 @@ XVII: italiano Tito Livio Burattini creado una máquina calculadora, que donó a
 1936: el matemático y computólogo inglés Alan Turing formaliza los conceptos de algoritmo y de máquina de Turing, que serían claves en el desarrollo de la computación moderna.
 1938: El ingeniero alemán Konrad Zuse completa la Z1, la primera computadora que se puede considerar como tal. De funcionamiento electromecánico y utilizando relés, era programable (mediante cinta perforada) y usaba sistema binario y lógica boleana. A ella le seguirían los modelos mejorados Z2, Z3 y Z4.
 1944: En Estados Unidos la empresa IBM construye la computadora electromecánica Harvard Mark I, diseñada por un equipo encabezado por Howard H. Aiken. Fue la primera computadora creada en Estados Unidos.
+
+xx
+xxldwjikwd
