@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+#footer
+{
+    color: whitesmoke;
+    background-color: indianred;
+    width: 70%;
+}
