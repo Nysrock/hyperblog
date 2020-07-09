@@ -44,7 +44,12 @@ body
 }
 #footer
 {
+    text-align: center;
     color: whitesmoke;
-    background-color: indianred;
-    width: 70%;
+    background-color: #d86094;
+    padding: 0.5em;
+}
+
+#tagfoot{
+    font-size: 15px;
 }
